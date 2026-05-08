@@ -1,4 +1,4 @@
-🎬 Movie App
+Movie App
 
 A sleek and responsive movie discovery application built using React and Vite. This project allows users to browse trending movies, search for their favorite titles, and manage a personalized favourites list using a clean modern UI.
 
