@@ -1,16 +1,22 @@
-# React + Vite
+🎬 Movie App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek and responsive movie discovery application built using React and Vite. This project allows users to browse trending movies, search for their favorite titles, and manage a personalized favourites list using a clean modern UI.
 
-Currently, two official plugins are available:
+✨ Features:
+🔥 Browse popular/trending movies
+🔍 Real-time movie search
+❤️ Add and remove favourites
+⚡ Fast and optimized with Vite
+🎨 Responsive modern UI
+🧭 Routing with React Router
+📡 API integration with TMDB
+🪄 Dynamic movie cards and loading states
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🛠️ Built With:
+1. Technology-	Purpose
+2. React-	Frontend library
+3. Vite-	Fast development build tool
+4. JavaScript-	Application logic
+5. CSS-	Styling and responsive layout
+6. React Router DOM-	Page routing
+7. TMDB API-	Movie database and search
